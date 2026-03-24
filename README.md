@@ -1,6 +1,8 @@
 # Isaiah Oladimeji Portfolio
 was built around systems thinking, analytics, automation, QA, and software testing skills of Isaiah Olad
 
+ https://portfolio-isaiaholad.vercel.app/
+
 ## Run locally
 
 ```bash
